@@ -25,13 +25,13 @@ Vous créerez un fichier pour chaque problème.
 
 ### Tâche 4
 
-1. Créez un fichier nommé `password-generator`
+1. Créez un fichier nommé `password-generator.js`
 2. Utilisez `npm install generate-password` : [generate-password](https://www.npmjs.com/package/generate-password)
 3. Créez une fonction qui génère des mots de passe aléatoires et affiche ce mot de passe avec `console.log`
 
 ### Tâche 5
 
-1. Créez un fichier nommé `email-sender`
+1. Créez un fichier nommé `email-sender.js`
 2. Utilisez `npm install nodemailer` : [nodemailer](https://www.w3schools.com/nodejs/nodejs_email.asp)
 3. Essayez de vous envoyer un e-mail en utilisant ceci
 

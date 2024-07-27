@@ -1,5 +1,4 @@
 # Checkpoint Node.js
----
 
 Dans ce point de contrôle, nous présenterons Node.js à travers une série d'exercices guidés.
 

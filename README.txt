@@ -1,10 +1,10 @@
-#Checkpoint Node.js
+# Checkpoint Node.js
 
 Dans ce point de contrôle, nous présenterons Node.js à travers une série d'exercices guidés.
 
 Vous créerez un fichier pour chaque problème.
 
-**Instructions**
+** Instructions **
 
 - Installer [Node.js](http://nodejs.org/)
 1. Dans cette tâche, vous devrez :
